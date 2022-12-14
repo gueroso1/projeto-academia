@@ -31,8 +31,10 @@ header > img  {
 .headline {
     background: url(../imagens/header.jpg) no-repeat center/cover;
     width: 100%;
-    margin-bottom: 20px;
-    padding: 20px;
+    height: 160px;
+    margin: 5px;
+    padding: 10px;
+    background-size: 126%;
 }
 
 .headline > h1 {
