@@ -1,0 +1,48 @@
+PARA POR NO HTML ( index.html )   
+FONTE QUE SERÁ CARREGADA ASSIM QUE O SITE FOR ABERTO
+=================
+
+<!-- FONTE EXTERNA -->
+     <link rel="preconnect" href="https://fonts.googleapis.com"> 
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,400&display=swap" rel="stylesheet">
+     <!-- FONTE EXTERNA -->
+
+
+PARA POR NO CSS DO DESKTOP ( estilo.css )
+=================
+
+html, body, p, h1, h2 {
+    max-width: 100%;
+    overflow-x: hidden;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    margin-top: 2px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+TEXTOS USADOS NO SITE
+=================
+Se for Para Sofrer
+Que Seja Na Academia
+
+O Seu Maior Projeto
+Deve Ser Você
+-----------------------------
+
+
+
+SOBRE NÓIS
+
+Bem vindo ao Seja Forte
+
+
+Respeite os limites do seu corpo e seja fiel ao seu treino.
+
+Treinar é adicionar algo a mais em sua vida. Os resultados só aparecem com muito treino e disciplina! Concentre suas energias em um vício do bem, malhar! Treine o quanto quiser com nossos planos. Todos oferecem áreas de musculação, aeróbico, aulas especiais e de ginástica.
+
+----------------------------
+
+
+Treinar é adicionar algo a mais em sua vida. Os resultados só aparecem com muito treino e disciplina! Concentre suas energias em um vício do bem, malhar! Treine o quanto quiser com nossos planos. Todos oferecem áreas de musculação, aeróbico, aulas especiais e de ginástica.
